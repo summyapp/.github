@@ -2,4 +2,5 @@
 
 # Summy
 
-L'app che riassume i tuoi testi in modo <b>facile</b> e <b>veloce</b>! In 5 lingue diverse: _Italiano, Inglese, Francese, Spagnolo, Tedesco_.
+L'app che riassume i tuoi testi in modo <b>facile</b> e <b>veloce</b>!
+Scopri di più sul [nostro sito](https://summyapp.com)
